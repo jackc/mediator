@@ -36,5 +36,3 @@ end
 at_exit do
   system("stty -raw echo")
 end
-
-__END__
